@@ -1,0 +1,26 @@
+int -> TYPE
+a -> ID
+= -> ASSIGN
+5 -> NUMBER
+; -> SEMICOLON
+int -> TYPE
+* -> POINTER
+p -> ID
+= -> ASSIGN
+& -> ADDRESS
+a -> ID
+; -> SEMICOLON
+* -> POINTER
+p -> ID
+= -> ASSIGN
+* -> POINTER
+p -> ID
++ -> ARITH_OP
+10 -> NUMBER
+; -> SEMICOLON
+char -> TYPE
+* -> POINTER
+s -> ID
+= -> ASSIGN
+Unclosed string error: "Unclosed string;
+int x = 10 @ 5;
