@@ -1,5 +1,0 @@
-int a = 5;
-int *p = &a;
-*p = *p + 10;
-char* s = "Unclosed string;
-int x = 10 @ 5;
